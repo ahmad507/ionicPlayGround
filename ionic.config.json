@@ -1,0 +1,7 @@
+{
+  "name": "playGround",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
